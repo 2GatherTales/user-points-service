@@ -1,9 +1,9 @@
-package com.joaogsrocha._SpringREST.services.implementation;
+package com.twogathertales.userservice.services.implementation;
 
 
-import com.joaogsrocha._SpringREST.model.userpoints.UserPoints;
-import com.joaogsrocha._SpringREST.repository.UserPointsRepository;
-import com.joaogsrocha._SpringREST.services.GenericService;
+import com.twogathertales.userservice.model.userpoints.UserPoints;
+import com.twogathertales.userservice.repository.UserPointsRepository;
+import com.twogathertales.userservice.services.GenericService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

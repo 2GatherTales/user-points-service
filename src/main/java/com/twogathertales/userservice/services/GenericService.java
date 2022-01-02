@@ -1,4 +1,4 @@
-package com.joaogsrocha._SpringREST.services;
+package com.twogathertales.userservice.services;
 
 public interface GenericService<T> {
 

@@ -1,7 +1,7 @@
-package com.joaogsrocha._SpringREST.repository;
+package com.twogathertales.userservice.repository;
 
 
-import com.joaogsrocha._SpringREST.model.userpoints.UserPoints;
+import com.twogathertales.userservice.model.userpoints.UserPoints;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
 import org.springframework.data.jpa.repository.JpaRepository;

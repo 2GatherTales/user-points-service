@@ -1,4 +1,4 @@
-package com.joaogsrocha._SpringREST;
+package com.twogathertales.userservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

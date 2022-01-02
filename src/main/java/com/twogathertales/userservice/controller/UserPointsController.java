@@ -1,7 +1,7 @@
-package com.joaogsrocha._SpringREST.controller;
+package com.twogathertales.userservice.controller;
 
-import com.joaogsrocha._SpringREST.model.userpoints.UserPoints;
-import com.joaogsrocha._SpringREST.services.GenericService;
+import com.twogathertales.userservice.model.userpoints.UserPoints;
+import com.twogathertales.userservice.services.GenericService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
@@ -14,6 +14,7 @@ import java.util.Calendar;
 @RestController
 @RequestMapping("api/userpoints")
 public class UserPointsController {
+
     @Autowired
     private GenericService<UserPoints> userPointsRepository;
 

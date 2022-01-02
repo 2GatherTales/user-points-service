@@ -1,4 +1,4 @@
-package com.joaogsrocha._SpringREST.model.userpoints;
+package com.twogathertales.userservice.model.userpoints;
 
 import lombok.Data;
 
